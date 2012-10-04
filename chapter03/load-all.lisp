@@ -8,3 +8,4 @@
 (load "08-load-db.lisp")
 (load "09-select-artist.lisp")
 (load "10-select.lisp")
+(load "11-update.lisp")
