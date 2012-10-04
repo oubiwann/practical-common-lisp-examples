@@ -3,3 +3,4 @@
 (load "03-dump-db.lisp")
 (load "04-prompt-read.lisp")
 (load "05-prompt-cd.lisp")
+(load "06-add-cds.lisp")
