@@ -10,3 +10,5 @@
 (load "10-select.lisp")
 (load "11-update.lisp")
 (load "12-delete.lisp")
+(load "13-delete-rows.lisp")
+(load "14-where-macro.lisp")
